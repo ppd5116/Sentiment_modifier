@@ -4,4 +4,4 @@ This project was inspired by Google's Natural Language API, Natural Language Pro
 # Vision 
 The vision of this project is to begin with embedding this software tool on social media platforms, a ubiquitous platform where millions of texts and dialogues are exchanged on a day-to-day basis. In a world that is dependent and emersed in technological advancements, it is important to protect the public from hate and/or negative comments and this project embarks an initial step towards solving this niche issue. The software tool when embedded on the social media platform automatically or manually can be activated when the user is on the social media platform, so that when any text is being exchanged, there is no risk of harmful or aggressive comments negatively impacting the user and vice versa. 
 
-<img width="629" alt="image" align="center" src="https://github.com/ppd5116/Sentiment_modifier/assets/48370769/76ea7229-d367-41c2-a595-93b6af7a8581">
+<div align="center"> <img width="629" alt="image" src="https://github.com/ppd5116/Sentiment_modifier/assets/48370769/76ea7229-d367-41c2-a595-93b6af7a8581"> </div>
